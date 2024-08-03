@@ -62,7 +62,7 @@ fun DetailsScreen() {
                 Modifier
                     .scale(1.5F)
                     .padding(end = 20.dp))
-            Image(painter = painterResource(id = R.drawable.starr), contentDescription = "Star",
+            Image(painter = painterResource(id = R.drawable.star), contentDescription = "Star",
                 Modifier
                     .width(50.dp)
                     .height(60.dp))
